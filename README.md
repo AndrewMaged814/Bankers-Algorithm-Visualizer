@@ -26,8 +26,8 @@ pip install customtkinter
 ## Screenshots
 _Example of the Banker's Algorithm Visualizer in action._
 
-![Screenshot 1](img\show_status_executing.png)
+![Screenshot 1](img/show_status_executing.png)
 _Example of the Banker's Algorithm Visualizer in action._
 
-![Screenshot 2](img\show_status_done.png)
+![Screenshot 2](img/show_status_done.png)
 _Example of the Banker's Algorithm Visualizer in action._
