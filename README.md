@@ -16,8 +16,6 @@ The Banker's Algorithm Visualizer is a tool that helps demonstrate the Banker's 
 
 ## Installation
 
-Clone the repository:
-
 ```shell
 pip install customtkinter
 ```
